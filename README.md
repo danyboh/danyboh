@@ -5,8 +5,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/bohdan-danyltsiv-8b38421b2#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/bohdan-danyltsiv-8b38421b2#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bohdan-danyltsiv-8b38421b2#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bohdan-danyltsiv-8b38421b2#gh-dark-mode-only)
 
 
 ### Languages and Tools:
