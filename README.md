@@ -1,4 +1,4 @@
-# Hi there, I'm Bohdan Danyltsiv aka danyboh 👋 
+# Hi there, I'm Bohdan Danyltsiv danyboh 👋 
 
 ## I'm a Web Developer
 
